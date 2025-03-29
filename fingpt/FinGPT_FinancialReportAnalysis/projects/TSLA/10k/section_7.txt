@@ -1,0 +1,258 @@
+ ITEM 7. MANAGEMENT&#8217;S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS 
+
+The following discussion and analysis should be read in conjunction with the consolidated financial statements and the related notes included elsewhere in this Annual Report on Form 10-K. For further discussion of our products and services, technology and competitive strengths, refer to Item 1- Business. For discussion related to changes in financial condition and the results of operations for fiscal year 2023-related items, refer to Part II, Item 7. Management&#8217;s Discussion and Analysis of Financial Condition and Results of Operations in our Annual Report on Form 10-K for fiscal year 2023, which was filed with the Securities and Exchange Commission on January 29, 2024. 
+
+Overview and 2024 Highlights 
+
+Our mission is to accelerate the world&#8217;s transition to sustainable energy. We design, develop, manufacture, lease and sell high-performance fully electric vehicles, solar energy generation systems and energy storage products. We also offer maintenance, installation, operation, charging, insurance, financial and other services related to our products. Additionally, we are increasingly focused on products and services based on AI, robotics and automation. 
+
+In 2024, we produced approximately 1,773,000 consumer vehicles and delivered approximately 1,789,000 consumer vehicles. We are focused on profitable growth, including by leveraging existing factories and production lines to introduce new and more affordable products, further improving and deploying our FSD (Supervised) capabilities, including future autonomous capabilities through our purpose-built Robotaxi product, Cybercab, reducing costs, increasing vehicle production, utilized capacity and delivery capabilities, improving and developing our vehicles and battery technologies, vertically integrating and localizing our supply chain, and expanding our global infrastructure, including our service and charging infrastructure. 
+
+In 2024, we deployed 31.4 GWh of energy storage products. We are focused on ramping the production and increasing the market penetration of our energy storage products. 
+
+In 2024, we recognized total revenues of $97.69 billion, representing an increase of $917 million compared to the prior year. In 2024, our net income attributable to common stockholders was $7.09 billion, representing a decrease of $7.91 billion compared to the prior year, primarily due to the impact of releasing $6.54 billion of our valuation allowance associated with U.S. federal and state deferred tax assets in the fourth quarter of 2023.We continue to ramp production and build and optimize our manufacturing capacity, expand our operations while focusing on further cost reductions and operational efficiencies to enable increased deliveries and deployments of our products, and invest in research and development to accelerate our AI, software, and fleet-based profits for further revenue growth. 
+
+We ended 2024 with $36.56 billion in cash and cash equivalents and investments, representing an increase of $7.47 billion from the end of 2023. Our cash flows provided by operating activities were $14.92 billion in 2024 compared to $13.26 billion in 2023, representing an increase of $1.67 billion. Capital expenditures amounted to $11.34 billion in 2024 compared to $8.90 billion in 2023, representing an increase of $2.44 billion. Overall growth has allowed our business to generally fund itself, and we will continue investing in a number of capital-intensive projects and research and development in upcoming periods. 
+
+Management Opportunities, Challenges and Uncertainties and 2025 Outlook 
+
+Automotive&#8212;Production 
+
+The following is a summary of the status of production of each of our announced vehicle models in production and under development, as of the date of this Annual Report on Form 10-K: 
+
+##TABLE_START Region Vehicle Model(s) Production Status California Model S / Model X Active &#160; Model 3 / Model Y Active Shanghai Model 3 / Model Y Active Berlin Model Y Active Texas Model Y Active &#160; Cybertruck Active Cybercab In development Nevada Tesla Semi Pilot production TBD Roadster In development ##TABLE_END
+
+We are focused on growing our manufacturing capacity, which includes capacity for manufacturing newer vehicle models such as our Cybertruck, Tesla Semi and future vehicles utilizing aspects of our next generation platform, and ramping the production at our Gigafactories to their installed production capacities as well as increasing production rate and efficiency at our current factories. The next phase of production growth will depend on the continued ramp at our factories and be initiated by advances in autonomy and the introduction of new products, including those built on our next generation vehicle platform, as well as our ability to add to our available sources of battery cell supply by manufacturing our own cells that we are developing to have high-volume output, lower capital and production costs and longer range. Our goals are to improve vehicle performance, decrease production costs and increase affordability and customer awareness. 
+
+These plans are subject to uncertainties inherent in establishing and ramping manufacturing operations, which may be exacerbated by new product and manufacturing technologies we introduce, the number of concurrent international projects, any industry-wide component constraints, labor shortages and any future impact from events outside of our control. For example, during the first quarter of 2024, we experienced a sequential decline in production volumes partially caused by the early phase of the production ramp of the updated Model 3 at our Fremont factory, and factory shutdowns at Gigafactory Berlin-Brandenburg resulting from shipping diversions caused by the Red Sea conflict and an arson attack. In the first quarter of 2025, as we launch our New Model Y worldwide, we may similarly experience delays or declines in production volumes due to simultaneous manufacturing ramps in facilities on three continents. Moreover, we have set ambitious technological targets with our plans for battery cells as well as for iterative manufacturing and design improvements for our vehicles with each new factory. 
+
+Automotive&#8212;Demand, Sales, Deliveries and Infrastructure 
+
+Our cost reduction efforts, cost innovation strategies, and additional localized procurement and manufacturing are key to our vehicles&#8217; affordability and have allowed us to competitively price our vehicles. We will also continue to generate demand by improving our vehicles&#8217; performance and functionality, including through product offerings and features based on artificial intelligence such as Autopilot, FSD (Supervised), and other software, and delivering new vehicles and vehicle options, such as our launch of the updated Model 3 in 2024, and the New Model Y in the first quarter of 2025. In addition, we have been increasing awareness, and expanding our vehicle financing programs, including attractive leasing terms for our customers. 
+
+However, we operate in a cyclical industry that is sensitive to shifting consumer trends, political and regulatory uncertainty, including with respect to trade and the environment, all of which can be compounded by inflationary pressures, rising energy prices, interest rate fluctuations and the liquidity of enterprise customers. For example, as inflationary pressures increased across the markets in which we operate, central banks in developed countries raised interest rates rapidly and substantially, which impacted the affordability of vehicle lease and finance arrangements. Further, sales of vehicles in the automotive industry also tend to be cyclical in many markets, which may expose us to increased volatility as we expand and adjust our operations. Moreover, as additional competitors enter the marketplace and help bring the world closer to sustainable transportation, we will have to adjust and continue to execute well to maintain our momentum. Additionally, our suppliers&#8217; liquidity and allocation plans may be affected by current challenges in the North American automotive industry, which could reduce our access to components or result in unfavorable changes to cost. These macroeconomic and industry trends have had, and will likely continue to have, an impact on the pricing of, and order rate for our vehicles, and in turn our operating margin. Changes in government and economic policies, incentives or tariffs may also impact our production, sales, cost structure and the competitive landscape. We will continue to adjust accordingly to such developments, and we believe our ongoing cost reduction, including improved production innovation and efficiency at our newest factories and lower logistics costs, and focus on operating leverage will continue to benefit us in relation to our competitors, while our new products will help enable future growth. 
+
+As our production increases, we must work constantly to similarly increase vehicle delivery capability so that it does not become a bottleneck on our total deliveries. We are also committed to reducing the percentage of vehicles delivered in the third month of each quarter, which will help to reduce the cost per vehicle. As we expand our manufacturing operations globally, we will also have to continue to increase and staff our delivery, servicing and charging infrastructure accordingly, maintain our vehicle reliability and optimize our Supercharger locations to ensure cost effectiveness and customer satisfaction. In particular, as other automotive manufacturers have announced their adoption of the North American Charging Standard (&#8220;NACS&#8221;) and agreements with us to utilize our Superchargers, we must correspondingly expand our network in order to ensure adequate availability to meet customer demands. We also remain focused on continued enhancements of the capability and efficiency of our servicing operations. 
+
+Energy Generation and Storage Demand, Production and Deployment 
+
+The long-term success of this business is dependent upon incremental volume growth. We continue to increase the production and capabilities of our energy storage products to meet high levels of demand, including the introduction of Powerwall 3 in 2024, and the ramps of our Megafactories in Shanghai and Lathrop, California. For Megapack, energy storage deployments can vary meaningfully quarter to quarter depending on the timing of specific project milestones and logistics. As these product lines grow, we will have to maintain adequate battery cell supply for our energy storage products. At the same time, changes in government and economic incentives or tariffs may also impact our sales, cost structure and the competitive landscape. 
+
+Cash Flow and Capital Expenditure Trends 
+
+Our capital expenditures are typically difficult to project beyond the short-term given the number and breadth of our core projects at any given time, and may further be impacted by uncertainties in future global market conditions. We are simultaneously developing and ramping new products, building or ramping manufacturing facilities on three continents, piloting the development and manufacture of new battery cell technologies, expanding our Supercharger network and investing in autonomy and other artificial intelligence enabled training and products, and the pace of our capital spend may vary depending on overall priority among projects, the pace at which we meet milestones, production adjustments to and among our various products, increased capital efficiencies and the addition of new projects. Owing and subject to the foregoing as well as the pipeline of announced projects under development, all other continuing infrastructure growth and varying levels of inflation, we currently expect our capital expenditures to exceed $11.00 billion in 2025 and in each of the following two fiscal years. 
+
+Our business has generally been consistently generating cash flow from operations in excess of our level of capital spend, and with better working capital management resulting in shorter days sales outstanding than days payable outstanding, our sales growth is also generally facilitating positive cash generation. We have and will continue to utilize such cash flows, among other things, to invest in autonomy, do more vertical integration, expand our product roadmap and provide financing options to our customers. At the same time, we are likely to see heightened levels of capital expenditures during certain periods depending on the specific pace of our capital-intensive projects and other potential variables such as rising material prices and increases in supply chain and labor expenses resulting from changes in global trade conditions and labor availability. Overall, we expect our ability to be self-funding to continue as long as macroeconomic factors support current trends in our sales. 
+
+Critical Accounting Policies and Estimates 
+
+The consolidated financial statements are prepared in accordance with accounting principles generally accepted in the U.S. (&#8220;GAAP&#8221;). The preparation of the consolidated financial statements requires us to make estimates and assumptions that affect the reported amounts of assets, liabilities, revenues, costs and expenses and related disclosures. We base our estimates on historical experience, as appropriate, and on various other assumptions that we believe to be reasonable under the circumstances. Changes in the accounting estimates are reasonably likely to occur from period to period. Accordingly, actual results could differ significantly from the estimates made by our management. We evaluate our estimates and assumptions on an ongoing basis. To the extent that there are material differences between these estimates and actual results, our future financial statement presentation, financial condition, results of operations and cash flows may be affected. 
+
+The estimates used for, but not limited to, determining significant economic incentive for resale value guarantee arrangements, sales return reserves, resale value guarantee liabilities, income tax, the collectability of accounts and finance receivables, inventory valuation, warranties, fair value of long-lived assets, goodwill, fair value of financial instruments, fair value and residual value of operating lease vehicles and solar energy systems subject to leases could be impacted. We have assessed the impact and are not aware of any specific events or circumstances that required an update to our estimates and assumptions or materially affected the carrying value of our assets or liabilities as of the date of issuance of this Annual Report on Form 10-K. These estimates may change as new events occur and additional information is obtained. Actual results could differ materially from these estimates under different assumptions or conditions. 
+
+Revenue Recognition 
+
+Automotive Sales 
+
+Automotive sales revenue includes revenues related to cash and financing deliveries of new vehicles, and specific other features and services that meet the definition of a performance obligation under Accounting Standards Codification 606, Revenue from Contracts with Customers (&#8220;ASC 606&#8221;), including access to our FSD (Supervised) features and their ongoing maintenance, internet connectivity, free Supercharging programs and over-the-air software updates. We recognize revenue on automotive sales upon delivery to the customer, which is when the control of a vehicle transfers. Payments are typically received at the point control transfers or in accordance with payment terms customary to the business, except sales we finance for which payments are collected over the contractual loan term. We also recognize a sales return reserve based on historical experience plus consideration for expected future market values, when we offer resale value guarantees or similar buyback terms. Other features and services such as access to our internet connectivity, unlimited free Supercharging and over-the-air software updates are provisioned upon control transfer of a vehicle and recognized over time on a straight-line basis as we have a stand-ready obligation to deliver such services to the customer. Other limited free Supercharging incentives are recognized based on actual usage or expiration, whichever is earlier. We recognize revenue related to these other features and services over the performance period, which is generally the expected ownership life of the vehicle. Revenue related to FSD (Supervised) features is recognized when functionality is delivered to the customer and their ongoing maintenance is recognized over time. For our obligations related to automotive sales, we estimate standalone selling price by considering costs used to develop and deliver the service, third-party pricing of similar options and other information that may be available. 
+
+Inventory Valuation 
+
+Inventories are stated at the lower of cost or net realizable value. Cost is computed using standard cost for vehicles and energy products, which approximates actual cost on a first-in, first-out basis. We record inventory write-downs for excess or obsolete inventories based upon assumptions about current and future demand forecasts. If our inventory on-hand is in excess of our future demand forecast, the excess amounts are written-off. 
+
+We also review our inventory to determine whether its carrying value exceeds the net amount realizable upon the ultimate sale of the inventory. This requires us to determine the estimated selling price of our vehicles less the estimated cost to convert the inventory on-hand into a finished product. Once inventory is written-down, a new, lower cost basis for that inventory is established and subsequent changes in facts and circumstances do not result in the restoration or increase in that newly established cost basis. 
+
+Should our estimates of future selling prices or production costs change, additional and potentially material write-downs may be required. A small change in our estimates may result in a material charge to our reported financial results. 
+
+Warranties 
+
+We provide a manufacturer&#8217;s warranty on all new and used vehicles and a warranty on the installation and components of the energy generation and storage systems we sell for periods typically between 10 to 25 years. We accrue a warranty reserve for the products sold by us, which includes our best estimate of the projected costs to repair or replace items under warranties and recalls if identified. These estimates are based on actual claims incurred to date and an estimate of the nature, frequency and costs of future claims. These estimates are inherently uncertain and changes to our historical or projected warranty experience may cause material changes to the warranty reserve in the future. The warranty reserve does not include projected warranty costs associated with our vehicles subject to operating lease accounting and our solar energy systems under lease contracts or PPAs, as the costs to repair these warranty claims are expensed as incurred. The portion of the warranty reserve expected to be incurred within the next 12 months is included within Accrued liabilities and other, while the remaining balance is included within Other long-term liabilities on the consolidated balance sheets. For liabilities that we are entitled to receive indemnification from our suppliers, we record receivables for the contractually obligated amounts on the consolidated balance sheets as a component of Prepaid expenses and other current assets for the current portion and as Other non-current assets for the long-term portion. Warranty expense is recorded as a component of Cost of revenues in the consolidated statements of operations. Due to the magnitude of our automotive business, our accrued warranty balance is primarily related to our automotive segment. 
+
+Stock-Based Compensation 
+
+We use the fair value method of accounting for our stock options and restricted stock units (&#8220;RSUs&#8221;) granted to employees and for our employee stock purchase plan (the &#8220;ESPP&#8221;) to measure the cost of employee services received in exchange for the stock-based awards. The fair value of stock option awards with only service and/or performance conditions is estimated on the grant or offering date using the Black-Scholes option-pricing model. The Black-Scholes option-pricing model requires inputs such as the risk-free interest rate, expected term and expected volatility. These inputs are subjective and generally require significant judgment. The fair value of RSUs is measured on the grant date based on the closing fair market value of our common stock. The resulting cost is recognized over the period during which an employee is required to provide service in exchange for the awards, usually the vesting period, which is generally four years for stock options and RSUs and six months for the ESPP. Stock-based compensation expense is recognized on a straight-line basis, net of actual forfeitures in the period. 
+
+For performance-based awards, stock-based compensation expense is recognized over the expected performance achievement period of individual performance milestones when the achievement of each individual performance milestone becomes probable. 
+
+As we accumulate additional employee stock-based awards data over time and as we incorporate market data related to our common stock, we may calculate significantly different volatilities and expected lives, which could materially impact the valuation of our stock-based awards and the stock-based compensation expense that we will recognize in future periods. Stock-based compensation expense is recorded in Cost of revenues, Research and development expense and Selling, general and administrative expense in the consolidated statements of operations. 
+
+Income Taxes 
+
+We are subject to income taxes in the U.S. and in many foreign jurisdictions. Significant judgment is required in determining our provision for income taxes, our deferred tax assets and liabilities and any valuation allowance recorded against our net deferred tax assets that are not more likely than not to be realized. We monitor the realizability of our deferred tax assets taking into account all relevant factors at each reporting period. In completing our assessment of realizability of our deferred tax assets, we consider our history of income (loss) measured at pre-tax income (loss) adjusted for permanent book-tax differences on a jurisdictional basis, volatility in actual earnings, excess tax benefits related to stock-based compensation in recent prior years, and impacts of the timing of reversal of existing temporary differences. We also rely on our assessment of the Company&#8217;s projected future results of business operations, including uncertainty in future operating results relative to historical results, volatility in the market price of our common stock and its performance over time, variable macroeconomic conditions impacting our ability to forecast future taxable income, and changes in business that may affect the existence and magnitude of future taxable income. Our valuation allowance assessment is based on our best estimate of future results considering all available information. 
+
+Furthermore, significant judgment is required in evaluating our tax positions. In the ordinary course of business, there are many transactions and calculations for which the ultimate tax settlement is uncertain. As a result, we recognize the effect of this uncertainty on our tax attributes or taxes payable based on our estimates of the eventual outcome. These effects are recognized when, despite our belief that our tax return positions are supportable, we believe that it is more likely than not that some of those positions may not be fully sustained upon review by tax authorities. We are required to file income tax returns in the U.S. and various foreign jurisdictions, which requires us to interpret the applicable tax laws and regulations in effect in such jurisdictions. Such returns are subject to audit by the various federal, state and foreign taxing authorities, who may disagree with respect to our tax positions. We believe that our consideration is adequate for all open audit years based on our assessment of many factors, including past experience and interpretations of tax law. We review and update our estimates in light of changing facts and circumstances, such as the closing of a tax audit, the lapse of a statute of limitations or a change in estimate. To the extent that the final tax outcome of these matters differs from our expectations, such differences may impact income tax expense in the period in which such determination is made. 
+
+Results of Operations 
+
+Revenues 
+
+##TABLE_START &#160; Year Ended December 31, 2024 vs. 2023 Change 2023 vs. 2022 Change (Dollars in millions) 2024 2023 2022 $ % $ % Automotive sales $ 72,480 $ 78,509 $ 67,210 $ (6,029) (8) % $ 11,299 17 % Automotive regulatory credits 2,763 1,790 1,776 973 54 % 14 1 % Automotive leasing 1,827 2,120 2,476 (293) (14) % (356) (14) % Total automotive revenues 77,070 82,419 71,462 (5,349) (6) % 10,957 15 % Services and other 10,534 8,319 6,091 2,215 27 % 2,228 37 % Total automotive &#38; services and other segment revenue 87,604 90,738 77,553 (3,134) (3) % 13,185 17 % Energy generation and storage segment revenue 10,086 6,035 3,909 4,051 67 % 2,126 54 % Total revenues $ 97,690 $ 96,773 $ 81,462 $ 917 1 % $ 15,311 19 % ##TABLE_END
+
+Automotive &#38; Services and Other Segment 
+
+Automotive sales revenue includes revenues related to cash and financing deliveries of new vehicles, including access to our FSD (Supervised) features and their ongoing maintenance, internet connectivity, free Supercharging programs and over-the-air software updates. These deliveries are vehicles that are not subject to lease accounting. 
+
+Automotive regulatory credits includes sales of regulatory credits to other automotive manufacturers. Our revenue from automotive regulatory credits is directly related to our new vehicle production, sales and pricing negotiated with our customers. We monetize them proactively as new vehicles are sold based on standing arrangements with buyers of such credits, typically as close as possible to the production and delivery of the vehicle or changes in regulation impacting the credits. 
+
+Automotive leasing revenue includes the amortization of revenue for vehicles under direct operating lease agreements. Additionally, automotive leasing revenue includes direct sales-type leasing programs where we recognize all revenue associated with the sales-type lease upon delivery to the customer. 
+
+Services and other revenue consists of sales of used vehicles, non-warranty maintenance services and collision, part sales, paid Supercharging, insurance services revenue and retail merchandise sales. 
+
+2024 compared to 2023 
+
+Automotive sales revenue decreased $6.03 billion, or 8%, in the year ended December 31, 2024 as compared to the year ended December 31, 2023, primarily due to lower average selling price on our vehicles driven by overall price reductions and attractive financing options provided in 2024 as well as mix. Additionally, there was a decrease of approximately 22,000 combined Model 3 and Model Y cash deliveries. The decreases were partially offset by an increase of approximately 19,000 deliveries of other models primarily due to our production ramp of Cybertruck. Additionally, we recognized $596 million of FSD (Supervised) revenue due to release of certain features in 2024. 
+
+Automotive regulatory credits revenue increased $973 million, or 54%, in the year ended December 31, 2024 as compared to the year ended December 31, 2023, driven by demand for credits in North America as other automobile manufacturers scale back on their battery electric vehicle plans. 
+
+Automotive leasing revenue decreased $293 million, or 14%, in the year ended December 31, 2024 as compared to the year ended December 31, 2023, primarily due to lower direct sales-type leasing deliveries as we have shifted towards providing leasing options through commercial banking partner programs that allow for us to recognize upfront revenue in automotive sales and a decrease in lease buyouts. 
+
+Services and other revenue increased $2.22 billion, or 27%, in the year ended December 31, 2024 as compared to the year ended December 31, 2023, primarily due to increases in sales of used vehicles, non-warranty maintenance services and collision revenue, paid Supercharging revenue, insurance services revenue and part sales revenue. 
+
+Energy Generation and Storage Segment 
+
+Energy generation and storage revenue includes sales and leasing of solar energy generation and energy storage products, financing of solar energy generation products, services related to such products and sales of solar energy systems incentives. 
+
+2024 compared to 2023 
+
+Energy generation and storage revenue increased $4.05 billion, or 67%, in the year ended December 31, 2024 as compared to the year ended December 31, 2023, primarily due to a 16.7 GWh increase in Megapack and Powerwall deployments compared to the prior year. 
+
+Cost of Revenues and Gross Margin 
+
+##TABLE_START Year Ended December 31, 2024 vs. 2023 Change 2023 vs. 2022 Change (Dollars in millions) 2024 2023 2022 $ % $ % Cost of revenues Automotive sales $ 61,870 $ 65,121 $ 49,599 $ (3,251) (5) % $ 15,522 31 % Automotive leasing 1,003 1,268 1,509 (265) (21) % (241) (16) % Total automotive cost of revenues 62,873 66,389 51,108 (3,516) (5) % 15,281 30 % Services and other 9,921 7,830 5,880 2,091 27 % 1,950 33 % Total automotive &#38; services and other segment cost of revenues 72,794 74,219 56,988 (1,425) (2) % 17,231 30 % Energy generation and storage segment 7,446 4,894 3,621 2,552 52 % 1,273 35 % Total cost of revenues $ 80,240 $ 79,113 $ 60,609 $ 1,127 1 % $ 18,504 31 % Gross profit total automotive $ 14,197 $ 16,030 $ 20,354 Gross margin total automotive 18.4 % 19.4 % 28.5 % Gross profit total automotive &#38; services and other segment $ 14,810 $ 16,519 $ 20,565 Gross margin total automotive &#38; services and other segment 16.9 % 18.2 % 26.5 % Gross profit energy generation and storage segment $ 2,640 $ 1,141 $ 288 Gross margin energy generation and storage segment 26.2 % 18.9 % 7.4 % Total gross profit $ 17,450 $ 17,660 $ 20,853 Total gross margin 17.9 % 18.2 % 25.6 % ##TABLE_END
+
+Automotive &#38; Services and Other Segment 
+
+Cost of automotive sales revenue includes direct and indirect materials, labor costs, manufacturing overhead, including depreciation costs of tooling and machinery, shipping and logistic costs, vehicle connectivity costs, FSD (Supervised) ongoing maintenance costs, allocations of electricity and infrastructure costs related to our Supercharger network and reserves for estimated warranty expenses. Cost of automotive sales revenues also includes adjustments to warranty expense and charges to write down the carrying value of our inventory when it exceeds its estimated net realizable value and to provide for obsolete and on-hand inventory in excess of forecasted demand. Additionally, cost of automotive sales revenue benefits from manufacturing credits earned. 
+
+Cost of automotive leasing revenue includes the depreciation of operating lease vehicles, cost of goods sold associated with direct sales-type leases and warranty expense related to leased vehicles. 
+
+Costs of services and other revenue includes cost of used vehicles including refurbishment costs, costs associated with providing non-warranty after-sales services, costs associated with our body shops and part sales, costs of paid Supercharging, costs to provide vehicle insurance and costs of retail merchandise sales. 
+
+2024 compared to 2023 
+
+Cost of automotive sales revenue decreased $3.25 billion, or 5%, in the year ended December 31, 2024 as compared to the year ended December 31, 2023 due to a decrease in the average combined cost per unit of our vehicles primarily from lower raw material costs, freight and duties as well as mix, in addition to the volume changes in deliveries year over year as discussed above. The decreases were partially offset by higher costs for Cybertruck. 
+
+Cost of automotive leasing revenue decreased $265 million, or 21%, in the year ended December 31, 2024 as compared to the year ended December 31, 2023, primarily due to a decrease in direct sales-type leasing cost of revenue driven by lower deliveries and a decrease in our direct operating lease cost of revenue driven by lower lease buyouts compared to the prior periods. 
+
+Cost of services and other revenue increased $2.09 billion, or 27%, in the year ended December 31, 2024 as compared to the year ended December 31, 2023, primarily due to volume increases in used vehicle sales at lower average vehicle acquisition cost, insurance services, paid Supercharging, part sales and non-warranty maintenance services and collision. 
+
+Gross margin for total automotive decreased from 19.4% to 18.4% in the year ended December 31, 2024 as compared to the year ended December 31, 2023 due to lower average selling price on our vehicles and Cybertruck ramp, partially offset by lower average combined cost per unit of our vehicles and increases in regulatory credit and FSD (Supervised) revenue, as discussed above. 
+
+Gross margin for total automotive &#38; services and other segment decreased from 18.2% to 16.9% in the year ended December 31, 2024 as compared to the year ended December 31, 2023. The changes in gross margin are primarily due to the automotive gross margin factors discussed above. 
+
+Energy Generation and Storage Segment 
+
+Cost of energy generation and storage revenue includes direct and indirect material and labor costs, manufacturing overhead, including depreciation costs of tooling and machinery, freight, warranty expense, and cost of servicing. Cost of energy generation and storage revenue also includes charges to write down the carrying value of our inventory when it exceeds its estimated net realizable value and to provide for obsolete and on-hand inventory in excess of forecasted demand. Additionally, cost of energy generation and storage revenue benefits from manufacturing credits earned. In agreements for solar energy systems and PPAs where we are the lessor, the cost of revenue is primarily comprised of depreciation of the cost of leased solar energy systems, maintenance costs associated with those systems and amortization of any initial direct costs. 
+
+2024 compared to 2023 
+
+Cost of energy generation and storage revenue increased $2.55 billion, or 52%, in the year ended December 31, 2024 as compared to the year ended December 31, 2023, primarily due to increases in Megapack and Powerwall deployments, partially offset by increases in IRA manufacturing credits recognized as compared to the prior year. 
+
+Gross margin for energy generation and storage increased from 18.9% to 26.2% in the year ended December 31, 2024 as compared to the year ended December 31, 2023, primarily due to margin improvements for our energy storage products driven by cost reductions, including benefits from IRA manufacturing credits, and a higher proportion of our storage business, which operated at a higher gross margin, within the segment as compared to the prior periods. 
+
+Research and Development Expense 
+
+##TABLE_START Year Ended December 31, 2024 vs. 2023 Change 2023 vs. 2022 Change (Dollars in millions) 2024 2023 2022 $ % $ % Research and development $ 4,540 $ 3,969 $ 3,075 $ 571 14 % $ 894 29 % As a percentage of revenues 5 % 4 % 4 % ##TABLE_END
+
+Research and development (&#8220;R&#38;D&#8221;) expenses consist primarily of personnel costs for our teams in engineering and research, manufacturing engineering and manufacturing test organizations, prototyping expense, contract and professional services and amortized equipment expense. 
+
+R&#38;D expenses increased $571 million, or 14%, in the year ended December 31, 2024 as compared to the year ended December 31, 2023. The overall increases were primarily driven by additional costs year over year related to AI programs. R&#38;D expenses as a percentage of revenue increased from 4% to 5% in the year ended December 31, 2024 as compared to the year ended December 31, 2023 as we continue to expand our product roadmap and technologies. 
+
+Selling, General and Administrative Expense 
+
+##TABLE_START Year Ended December 31, 2024 vs. 2023 Change 2023 vs. 2022 Change (Dollars in millions) 2024 2023 2022 $ % $ % Selling, general and administrative $ 5,150 $ 4,800 $ 3,946 $ 350 7 % $ 854 22 % As a percentage of revenues 5 % 5 % 5 % ##TABLE_END
+
+Selling, general and administrative (&#8220;SG&#38;A&#8221;) expenses generally consist of personnel and facilities costs related to our stores, marketing, sales, executive, finance, human resources, information technology and legal organizations, as well as fees for professional and contract services and litigation settlements. 
+
+SG&#38;A expenses increased $350 million, or 7%, in the year ended December 31, 2024 as compared to the year ended December 31, 2023 driven by a $171 million increase in facilities related expenses, a $115 million increase in employee and labor costs, including professional services and a $57 million increase in marketing expenses. 
+
+Restructuring and Other 
+
+##TABLE_START Year Ended December 31, 2024 vs. 2023 Change 2023 vs. 2022 Change (Dollars in millions) 2024 2023 2022 $ % $ % Restructuring and other $ 684 $ &#8212; $ 176 $ 684 Not meaningful $ (176) (100)% ##TABLE_END
+
+In the second quarter of 2024, we initiated and substantially completed certain restructuring actions to reduce costs and improve efficiency. As a result, we recognized $583 million of employee termination expenses in Restructuring and other in our consolidated income statement. These expenses were substantially paid with an immaterial accrual remaining in Accrued liabilities and other in our consolidated balance sheet as of December 31, 2024. 
+
+Interest Income 
+
+##TABLE_START Year Ended December 31, 2024 vs. 2023 Change 2023 vs. 2022 Change (Dollars in millions) 2024 2023 2022 $ % $ % Interest income $ 1,569 $ 1,066 $ 297 $ 503 47 % $ 769 259 % ##TABLE_END
+
+Interest income increased $503 million, or 47%, in the year ended December 31, 2024 as compared to the year ended December 31, 2023, primarily due to higher interest earned on our cash and cash equivalents and short-term investments compared to the prior year due to an increase in our portfolio balance and a higher weighted average interest rate. 
+
+Other Income (Expense), Net 
+
+##TABLE_START Year Ended December 31, 2024 vs. 2023 Change 2023 vs. 2022 Change (Dollars in millions) 2024 2023 2022 $ % $ % Other income (expense), net $ 695 $ 172 $ (43) $ 523 304% $ 215 Not meaningful ##TABLE_END
+
+Other income (expense), net, consists of foreign exchange gains and losses related to our foreign currency-denominated monetary assets and liabilities and fair value remeasurements of our digital assets following the adoption of ASU 2023-08 effective January 1, 2024. See Note 2, Summary of Significant Accounting Policies , to the consolidated financial statements included elsewhere in this Annual Report on Form 10-K for further details. 
+
+Other income (expense), net, changed favorably by $523 million in the year ended December 31, 2024 as compared to the year ended December 31, 2023 primarily due to remeasurement of our bitcoin digital assets to fair value in 2024 (see above), partially offset by unfavorable fluctuations in foreign currency exchange rates on our intercompany balances. As our intercompany balances are significant in nature and we do not typically hedge foreign currency risk, we can experience significant fluctuations in foreign currency exchange rate gains and losses from period to period. 
+
+Provision for (Benefit from) Income Taxes 
+
+##TABLE_START Year Ended December 31, 2024 vs. 2023 Change 2023 vs. 2022 Change (Dollars in millions) 2024 2023 2022 $ % $ % Provision for (benefit from) income taxes $ 1,837 $ (5,001) $ 1,132 $ 6,838 Not meaningful $ (6,133) Not meaningful Effective tax rate 20 % (50) % 8 % ##TABLE_END
+
+Our provision for (benefit from) income taxes changed by $6.84 billion in the year ended December 31, 2024 as compared to the year ended December 31, 2023. Our effective tax rate changed to an expense of 20% in the year ended December 31, 2024 from a benefit of 50% in the year ended December 31, 2023. These changes are primarily due to the impact of releasing the valuation allowance on our U.S. deferred tax assets in the fourth quarter of 2023. 
+
+We monitor the realizability of our deferred tax assets taking into account all relevant factors at each reporting period. In the fourth quarter of 2023, based on the relevant weight of positive and negative evidence, including the amount of our taxable income in recent years which was objective and verifiable, and consideration of our expected future taxable earnings, we concluded that it is more likely than not that most of our U.S. federal and certain state deferred tax assets are realizable and released $6.54 billion of our valuation allowance. As of December 31, 2024, we continue to conclude that it is more likely than not that our deferred tax assets are realizable, except for our California deferred tax assets, U.S. foreign tax credits and certain foreign operating losses. 
+
+See Note 13, Income Taxes , to the consolidated financial statements included elsewhere in this Annual Report on Form 10-K for further details. 
+
+Liquidity and Capital Resources 
+
+We expect to continue to generate net positive operating cash flow. The cash we generate from our core operations enables us to fund ongoing operations and production, our research and development projects for new products and technologies including our proprietary battery cells, additional manufacturing ramps at existing manufacturing facilities, the construction of future factories, and the continued expansion of our retail and service locations, body shops, Mobile Service fleet, Supercharger, including to support NACS, energy product installation capabilities and autonomy and other artificial intelligence enabled products. 
+
+In addition, because a large portion of our future expenditures will be to fund our growth, we expect that if needed we will be able to adjust our capital and operating expenditures by operating segment. For example, if our near-term manufacturing operations decrease in scale or ramp more slowly than expected, including due to global economic or business conditions, we may choose to correspondingly slow the pace of our capital expenditures. Finally, we continually evaluate our cash needs and may decide it is best to raise additional capital or seek alternative financing sources to fund the rapid growth of our business, including through drawdowns on existing or new debt facilities or financing funds. Conversely, we may also from time to time determine that it is in our best interests to voluntarily repay certain indebtedness early. 
+
+Accordingly, we believe that our current sources of funds will provide us with adequate liquidity during the 12-month period following December 31, 2024, as well as in the long-term. 
+
+See the sections below for more details regarding the material requirements for cash in our business and our sources of liquidity to meet such needs. 
+
+Material Cash Requirements 
+
+From time to time in the ordinary course of business, we enter into agreements with vendors for the purchase of components and raw materials to be used in the manufacture of our products. However, due to contractual terms, variability in the precise growth curves of our development and production ramps, and opportunities to renegotiate pricing, we generally do not have binding and enforceable purchase orders under such contracts beyond the short-term, and the timing and magnitude of purchase orders beyond such period is difficult to accurately project. 
+
+As discussed in and subject to the considerations referenced in Part II, Item 7, Management's Discussion and Analysis of Financial Condition and Results of Operations&#8212;Management Opportunities, Challenges and Uncertainties and 2025 Outlook&#8212;Cash Flow and Capital Expenditure Trends in this Annual Report on Form 10-K, we currently expect our capital expenditures to support our projects globally to exceed $11.00 billion in 2025 and in each of the following two fiscal years. 
+
+As of December 31, 2024, we and our subsidiaries had outstanding $7.91 billion in aggregate principal amount of indebtedness, of which $2.35 billion is current. As of December 31, 2024, our total minimum lease payments was $7.05 billion, of which $1.19 billion is due in the succeeding 12 months. For details regarding our indebtedness and lease obligations, refer to Note 10, Debt , and Note 11, Leases , to the consolidated financial statements included elsewhere in this Annual Report on Form 10-K. 
+
+Sources and Conditions of Liquidity 
+
+Our sources to fund our material cash requirements are predominantly from our deliveries and servicing of new and used vehicles, sales and installations of our energy storage products, interest income, and proceeds from debt facilities and equity offerings, when applicable. 
+
+As of December 31, 2024, we had $16.14 billion and $20.42 billion of cash and cash equivalents and short-term investments, respectively. Balances held in foreign currencies had a U.S. dollar equivalent of $2.90 billion and consisted primarily of euros and Chinese yuan. We had $5.00 billion of unused committed credit amounts as of December 31, 2024. For details regarding our indebtedness, refer to Note 10, Debt , to the consolidated financial statements included elsewhere in this Annual Report on Form 10-K. 
+
+We continue adapting our strategy to meet our liquidity and risk objectives, such as investing in U.S. government securities and other investments, invest in autonomy, do more vertical integration, expand our product roadmap and provide financing options to our customers. 
+
+Summary of Cash Flows 
+
+##TABLE_START &#160; Year Ended December 31, (Dollars in millions) 2024 2023 2022 
+
+Net cash provided by operating activities 
+
+$ 14,923 $ 13,256 $ 14,724 
+
+Net cash used in investing activities 
+
+$ (18,787) $ (15,584) $ (11,973) 
+
+Net cash provided by (used in) financing activities 
+
+$ 3,853 $ 2,589 $ (3,527) ##TABLE_END
+
+Cash Flows from Operating Activities 
+
+Our cash flows from operating activities are significantly affected by our cash investments to support the growth of our business in areas such as research and development and selling, general and administrative and working capital. Our operating cash inflows include cash from vehicle sales and related servicing, customer lease and financing payments, customer deposits, cash from sales of regulatory credits and energy generation and storage products, and interest income on our cash and investments portfolio. These cash inflows are offset by our payments to suppliers for production materials and parts used in our manufacturing process, operating expenses, operating lease payments and interest payments on our financings. 
+
+Net cash provided by operating activities increased by $1.67 billion to $14.92 billion during the year ended December 31, 2024 from $13.26 billion during the year ended December 31, 2023. This increase was primarily due to favorable changes in net operating assets and liabilities of $2.29 billion, partially offset by a decrease in net income excluding non-cash expenses, gains and losses of $623 million. 
+
+Cash Flows from Investing Activities 
+
+Net cash flows from investing activities and their variability across each period related primarily to capital expenditures, which were $11.34 billion and $8.90 billion for the years ended December 31, 2024 and 2023, respectively, mainly for AI-related capital expenditures, global factory expansion and machinery and equipment as we expand and enhance our product roadmap. We also purchased $7.45 billion and $6.62 billion of investments, net of proceeds from maturities and sales, for the years ended December 31, 2024 and 2023, respectively. 
+
+Cash Flows from Financing Activities 
+
+Net cash flows from financing activities increased by $1.26 billion to $3.85 billion during the year ended December 31, 2024 from $2.59 billion during the year ended December 31, 2023. The increase was primarily due to a $1.81 billion increase in proceeds from issuances of debt, partially offset by a $1.15 billion increase in repayments of debt. See Note 10, Debt , to the consolidated financial statements included elsewhere in this Annual Report on Form 10-K for further details regarding our debt obligations. Additionally, there was an increase of $541 million in proceeds from exercises of stock options and other stock issuances compared to the prior year. 
+
+Recent Accounting Pronouncements 
+
+See Note 2, Summary of Significant Accounting Policies , to the consolidated financial statements included elsewhere in this Annual Report on Form 10-K. 
+
