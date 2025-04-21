@@ -1,0 +1,240 @@
+ ITEM 7. MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS 
+
+The following discussion should be read in conjunction with the information contained in our consolidated financial statements, including the notes thereto. Statements regarding future economic performance, management&#8217;s plans and objectives, and any statements concerning assumptions related to the foregoing contained in Management&#8217;s Discussion and Analysis of Financial Condition and Results of Operations constitute forward-looking statements. Certain factors, which may cause actual results to vary materially from these forward-looking statements, accompany such statements or appear elsewhere in this Form 10-K, including the disclosures under Part I, Item 1A, &#8220;Risk Factors.&#8221; 
+
+In Management&#8217;s Discussion and Analysis of Financial Condition and Results of Operations, we provide a detailed analysis for fiscal 2024 compared to fiscal 2023. For a comparison of our results of operations for fiscal 2023 compared to fiscal 2022, see &#8220;Part II, Item 7. Management&#8217;s Discussion and Analysis of Financial Condition and Results of Operations&#8221; of our annual report on Form 10-K for the fiscal year ended February 3, 2024, as filed with the SEC on March 26, 2024. 
+
+OVERVIEW 
+
+GameStop Corp. (&#8220;GameStop,&#8221; &#8220;we,&#8221; &#8220;us,&#8221; &#8220;our&#8221; or the &#8220;Company&#8221;), a Delaware corporation established in 1996, is a leading specialty retailer offering games and entertainment products through its thousands of stores and ecommerce platforms. 
+
+BUSINESS PRIORITIES 
+
+Our strategy involves (i) using our cash and other sources of liquidity to maximize shareholder value, including through potential investment and/or acquisition opportunities and (ii) optimizing our retail business to achieve profitability. 
+
+Investment Policy 
+
+On March 18, 2025, the Board of Directors of the Company (the "Board") unanimously authorized a revised investment policy (the &#8220;Investment Policy&#8221;). In accordance with the revised Investment Policy, the Board has delegated authority to manage the Company&#8217;s portfolio of securities investments to an Investment Committee of the Board (the "Investment Committee") consisting of the Company&#8217;s Chairman of the Board and Chief Executive Officer, Ryan Cohen, and two independent members of the Board, together with such personnel and advisors as the Investment Committee may choose. The Investment Committee regularly reviews risks related to the Company's investment portfolio, including concentration risk. When allocating cash to various investment opportunities and considering related investment risk, the Investment Committee considers market-based factors, including risk adjusted after-tax yields. When reviewing concentration risk, the Investment Committee considers the liquidity needs of the Company, among other things. 
+
+Investments are made in accordance with the guidelines in the Investment Policy that is reviewed at least annually, with oversight conducted by senior officers and the Investment Committee. 
+
+The overall goals of the Investment Policy are to provide sufficient liquidity to meet the day-to-day financial obligations of the Company, and to optimize investment returns within the guidelines of the Investment Policy. Permissible investment instruments include cash and cash equivalents (e.g. bank obligations, money market funds, and commercial paper), fixed income securities (e.g. obligations of the U.S. Treasury and U.S. Government, tax exempt obligations of states and municipalities, and corporate bonds/notes), equity securities (limited to those listed on the New York Stock Exchange (&#8220;NYSE&#8221;), NYSE American, NYSE Arca or the Nasdaq Stock Market and in compliance with the listing standards of the applicable exchange) and certain crypto-currencies, including Bitcoin. Individual exceptions to the Investment Policy may only be made by the unanimous agreement of the Investment Committee or, if the Investment Committee is unable to reach unanimous agreement on such exception, by the Board. 
+
+On March 25, 2025 we announced that, as part of our revisions to the Investment Policy, the Board approved the addition of Bitcoin as a treasury reserve asset, whereby a portion of our cash or future debt and equity issuances may be invested in Bitcoin. We have not set a maximum amount of Bitcoin we may accumulate, and may sell any Bitcoin we may acquire. 
+
+The Investment Committee will direct the investment activity of the Company in public and private markets pursuant to authority granted by the Board. Depending on certain market conditions and various risk factors, Mr. Cohen or other members of the Investment Committee, each in their personal capacity or through affiliated investment vehicles, may at times invest in the same securities in which the Company invests. The Board anticipates that such investments will align the interests of the Company with the interests of related parties because it places the personal resources of such directors at risk in substantially the same manner as resources of the Company in connection with investment decisions made by the Investment Committee on behalf of the Company. 
+
+Retail Business 
+
+GameStop is actively focused on the below objectives: 
+
+&#8226; Establish Omnichannel Retail Excellence. We aim to be the leading destination for games and entertainment products through our stores and ecommerce platforms. 
+
+&#8226; Achieve Profitability. During fiscal 2024, we continued to optimize our cost structure to align with our current and anticipated future needs. We will continue to focus on cost containment as we look to operate with increased efficiency. 
+
+&#8226; Expand Our Addressable Market. We continue to explore ways to increase the size of our addressable market through new product and service offerings, including offerings in the graded collectibles category. Expansion of these categories provides the Company with margin accretive opportunities that can assist the Company in achieving its profitability goals. 
+
+In connection with our efforts to achieve sustained profitability, we continue to evaluate our international assets and operations, to determine their strategic and financial fit and to eliminate redundancies and underperforming assets. To date we have taken the following steps as part of this ongoing effort: 
+
+&#8226; During fiscal 2023, we exited our operations in Ireland, Switzerland, and Austria. 
+
+&#8226; During the fourth quarter of fiscal 2024 we closed down our store operations in Germany 
+
+&#8226; During the fourth quarter of fiscal 2024, we sold our Italian subsidiary, GameStop Italy S.r.l, which operated our Italian stores and e-commerce business. The stores in Italy will continue to operate under the GameStop brand for a transition period of up to six months. We recognized impairment expense of $7.6 million on the assets and a loss of $0.5 million during fiscal 2024 in connection with the sale. The proceeds and loss on the sale were immaterial to our financial results. 
+
+&#8226; On February 18, 2025, we announced a plan to pursue a sale of our operations in France and Canada 
+
+We have also initiated a comprehensive store portfolio optimization review which involves identifying stores for closure based on many factors, including an evaluation of current market conditions and individual store performance. This review, among other things, resulted in the closure of 590 stores in the United States in fiscal 2024. While this review is ongoing and a specific set of stores has not been identified for closure, we anticipate closing a significant number of additional stores in fiscal 2025. 
+
+While we expect our cost containment efforts to yield reductions in selling, general and administrative ("SG&#38;A") expenses in the long term, we have incurred and may continue to incur non-recurring costs related to these efforts in the short term. 
+
+We also continue to explore ways to increase the size of our addressable market through new product and service offerings, including offerings in the graded collectibles category. On October 15, 2024, GameStop announced that it had entered into a collaboration with Collectors Holdings, Inc., through its Professional Sports Authenticator division ("PSA"). As part of this collaboration, GameStop became an authorized PSA dealer, and PSA provides autograph authentication and grading services for trading cards through select GameStop stores across the United States. 
+
+STORE COUNT INFORMATION 
+
+The following table presents the number of stores by segment as of the end of fiscal 2024 compared to the end of fiscal 2023. 
+
+##TABLE_START February 3, 2024 Openings Disposals February 1 , 2025 United States 2,915 &#8212; (590) 2,325 Canada 203 1 (11) 193 Australia 404 3 (33) 374 Europe 647 &#8212; (336) 311 Total Stores 4,169 4 (970) 3,203 ##TABLE_END
+
+CONSOLIDATED RESULTS OF OPERATIONS 
+
+The following table presents certain statement of operations items (in millions) and as a percentage of net sales: 
+
+##TABLE_START Fiscal 2024 
+
+Fiscal 2023 
+
+Change Amount Percent of Net Sales Amount Percent of Net Sales $ % Net sales $ 3,823.0 100.0 % $ 5,272.8 100.0 % $ (1,449.8) (27.5) % Cost of sales 2,709.1 70.9 3,978.6 75.5 (1,269.5) (31.9) Gross profit 1,113.9 29.1 1,294.2 24.5 (180.3) (13.9) Selling, general, and administrative expenses 1,130.4 29.6 1,323.9 25.1 (193.5) (14.6) Asset impairments 9.7 0.2 4.8 0.1 4.9 102.1 Operating loss (26.2) (0.7) (34.5) (0.7) 8.3 24.1 
+
+Interest (income) expense, net 
+
+(163.4) (4.3) (49.5) (0.9) (113.9) (230.1) Other expense, net &#8212; &#8212; 1.9 &#8212; (1.9) 100.0 Income before income taxes 
+
+137.2 3.6 13.1 0.2 124.1 NM (1) 
+
+Income tax expense, net 5.9 0.2 6.4 0.1 (0.5) (7.8) 
+
+Net income 
+
+$ 131.3 3.4 % $ 6.7 0.1 % $ 124.6 NM (1) 
+
+##TABLE_END
+
+(1) &#8220;NM&#8221; is data that is not meaningful. 
+
+Net Sales 
+
+The following table presents net sales by significant product category: ##TABLE_START &#160; Fiscal 2024 
+
+Fiscal 2023 
+
+Change &#160; Net Sales Percent of Net Sales Net Sales Percent of Net Sales $ % Hardware and accessories $ 2,099.7 54.9 % $ 2,996.8 56.8 % $ (897.1) (29.9) % Software 1,005.4 26.3 1,522.0 28.9 (516.6) (33.9) Collectibles 
+
+717.9 18.8 754.0 14.3 (36.1) (4.8) Total $ 3,823.0 100.0 % $ 5,272.8 100.0 % $ (1,449.8) (27.5) % ##TABLE_END The following table presents net sales by reportable segment: ##TABLE_START &#160; Fiscal 2024 
+
+Fiscal 2023 
+
+Change &#160; Net Sales Percent of Net Sales Net Sales Percent of Net Sales $ % United States $ 2,575.7 67.4 % $ 3,429.4 65.1 % $ (853.7) (24.9) % Canada 204.3 5.3 292.5 5.5 (88.2) (30.2) Australia 
+
+404.9 10.6 522.5 9.9 (117.6) (22.5) Europe 
+
+638.1 16.7 1,028.4 19.5 (390.3) (38.0) Total $ 3,823.0 100.0 % $ 5,272.8 100.0 % $ (1,449.8) (27.5) % ##TABLE_END
+
+During fiscal 2024, total net sales decreased 27.5% compared to the prior year, with net sales in our Europe, Canada, United States, and Australia segments decreasing by 38.0%, 30.2%, 24.9%, and 22.5%, respectively, compared to the prior year. The decrease in consolidated net sales in fiscal 2024 compared to the prior year was primarily attributable to a $516.6 million or 33.9% decline in the sales of software, a $897.1 million or 29.9% decline in the sale of hardware and accessories, and a $36.1 million or 4.8% decline in the sales of collectibles. 
+
+Gross Profit 
+
+Gross profit decreased $180.3 million or 13.9% in fiscal 2024 compared to the prior year, and gross profit as a percentage of net sales increased to 29.1% in fiscal 2024 compared to 24.5% in the prior year. 
+
+The decrease in gross profit in fiscal 2024 compared to the prior year is primarily attributable to the decrease in net sales, as further outlined in the net sales commentary. The increase in gross profit as a percentage of net sales is primarily due to a shift to higher margin product categories, specifically collectibles and preowned hardware and accessories, as well as improvements in inventory management. Sales of c ollectibles as a percentage of total net sales increased to 18.8% in the current year, compared to 14.3% in the prior year. Sales of pre-owned hardware and accessories as a percentage of total net sales increased to 11.5% in the current year, compared to 9.3% in the prior year. 
+
+Selling, General, and Administrative Expenses 
+
+SG&#38;A expenses decreased $193.5 million or 14.6% in fiscal 2024 compared to the prior year, and SG&#38;A as a percentage of net sales increased to 29.6%, in fiscal 2024, compared to 25.1% the prior year. 
+
+The decrease in SG&#38;A expenses in fiscal 2024 compared to the prior year is primarily attributable to a $157.2 million reduction in labor-related costs, consulting services costs, and marketing expenses, driven by our continued focus on cost reduction efforts. Store related costs decreased $30.7 million in the current year in connection with store closures, primarily in our European segment. The increase in SG&#38;A as a percentage of net sales is primarily attributable to the decrease in net sales relative to the decrease in SG&#38;A expenses, as further outlined in the net sales commentary. 
+
+Asset Impairments 
+
+Asset impairments related to store-level assets increased $4.9 million to $9.7 million in fiscal 2024, compared to $4.8 million in the prior year. See Item 8, Notes to the Consolidated Financial Statements, Note 5 "Segment Information" for additional information related to the impact of impairment charges by segment. 
+
+Interest Income, Net 
+
+Interest income, net increased $113.9 million to $163.4 million in fiscal 2024, compared to $49.5 million in the prior year. The increase is primarily attributable to an increase in cash and cash equivalents resulting from the issuance and sale of shares of our Class A Common Stock under the ATM Transactions, as well as higher interest rates in the current year compared to the prior year. 
+
+Income Tax Expense, Net 
+
+Income tax expense, net decreased $0.5 million to $5.9 million in fiscal 2024, compared to $6.4 million in the prior year. The company reported an effective tax rate of 4.3% in fiscal 2024 down from 48.9% in the prior year. This decrease in effective tax rate is primarily attributable to a $113.9 million increase in interest income and a corresponding $24 million increase in statutory tax expense, offset by tax benefits recognized in the current year. See Item 8, Notes to the Consolidated Financial Statements, Note 14 , "Income Taxes," for additional information. 
+
+LIQUIDITY AND CAPITAL RESOURCES 
+
+Cash, cash equivalents and marketable securities 
+
+##TABLE_START February 3, 2024 January 28, 2023 Cash and cash equivalents $ 4,756.9 $ 921.7 Marketable securities 18.0 277.6 Cash, cash equivalents and marketable securities $ 4,774.9 $ 1,199.3 ##TABLE_END
+
+Sources of Liquidity; Uses of Capital 
+
+Our principal sources of liquidity are cash on hand and cash from operations. As of February 1, 2025, we had total unrestricted cash and cash equivalents on hand of $4,756.9 million and marketable securities of $18.0 million. 
+
+Our cash and cash equivalents are carried at fair value and consist primarily of cash, money market funds, cash deposits with commercial banks, U.S. government bonds and notes, and highly rated direct short-term instruments with original maturities of 90 days or less. 
+
+Our marketable securities are also carried at fair value and include investments in certain highly-rated short-term government notes, government bills, and time deposits. As of February 1, 2025, the investment portfolios' aggregate balance was $18.0 million, all of which have an original maturity in excess of 90 days and less than one year and are classified as marketable securities on our Consolidated Balance Sheets. 
+
+On an ongoing basis, we evaluate and consider certain strategic operating alternatives, including divestitures, restructuring or dissolution of unprofitable business segments, uses for our excess cash, as well as equity and debt financing alternatives that we believe may enhance stockholder value. The nature, amount and timing of any strategic operational change, or financing transactions that we might pursue will depend on a variety of factors, including, as of the applicable time, our available cash and liquidity and operating performance; our commitments and obligations; our capital requirements; limitations imposed under our credit arrangements; and overall market conditions. 
+
+On March 18, 2025, the Board approved a revised Investment Policy. See "Part II, Item 7. Management&#8217;s Discussion and Analysis of Financial Condition and Results of Operations - Investments&#8221; for more information. Gains and losses on marketable securities may fluctuate significantly from period to period in the future and could have a significant impact on the Company&#8217;s results of operations. However, the amount of gain or loss on marketable securities for any given period may have no predictive value and variations in amount from period to period may have no analytical value. 
+
+In fiscal 2021, six separate unsecured term loans held by our French subsidiary, Micromania SAS, for a total of &#8364;40.0 million were extended for five years. As of February 1, 2025, $16.9 million remains outstanding. 
+
+In November 2021, we entered into a credit agreement for a secured asset-based credit facility comprised of a $500 million revolving line of credit maturing in November 2026 ("2026 Revolver"). The 2026 Revolver included a $50 million swing loan revolving sub-facility, a $50 million Canadian revolving sub-facility, and a $250 million letter of credit sublimit. On March 22, 2024, we delivered an irrevocable notice pursuant to the 2026 Revolver that reduced the $500 million revolving line of credit to $250 million. The 2026 Revolver continued to include a $50 million swing loan sub-facility, a $50 million Canadian sub-facility and a $250 million letter of credit sublimit. On August 27, 2024, we voluntarily terminated the 2026 Revolver, including all commitments and obligations thereunder. 
+
+Some of our vendors have requested and may continue to request credit support collateral for our inventory purchase obligations and the levels of such collateral will depend on a variety of factors, including our inventory purchase levels, available payment terms for inventories, favorable credit terms, and costs of providing collateral. 
+
+We maintain uncommitted facilities with certain lenders that provide for the issuance of letters of credit and bank guarantees, at times supported by cash collateral. As of February 1, 2025, we had letters of credit and other bank guarantees outstanding in the amount of $7.3 million. 
+
+On May 17, 2024, we entered into an Open Market Sale Agreement SM with Jefferies LLC (the &#8220;Sales Agent&#8221;) providing for the sale by the Company of shares of our Class A Common Stock, par value $0.001 per share (&#8220;Common Shares&#8221;), from time to time, through the Sales Agent in connection with an &#8220;at-the-market offering&#8221; program (the &#8220;ATM Offerings&#8221;). 
+
+Pursuant to the prospectus supplement relating to the ATM Offerings filed with the SEC on May 17, 2024, we sold an aggregate of 45.0 million Common Shares for aggregate gross proceeds before commissions and offering expenses of approximately $933.4 million. 
+
+Pursuant to the prospectus supplement relating to the ATM Offerings filed with the SEC on June 7, 2024, we sold an aggregate of 75.0 million additional Common Shares for aggregate gross proceeds before commissions and offering expenses of approximately $2,137.0 million. 
+
+Pursuant to the prospectus supplement relating to the ATM Offerings filed with the SEC on September 10, 2024, we sold an aggregate of 20.0 million additional Common Shares for aggregate gross proceeds before commissions and offering expenses of approximately $400.0 million. 
+
+We intend to use the net proceeds from the ATM Offerings for general corporate purposes, which may include acquisitions and investments in a manner consistent with the Investment Policy. 
+
+Cash Flows 
+
+The following table presents a summary of our cash flows from operating, investing, and financing activities, as reflected in the Consolidated Statements of Cash Flows: 
+
+##TABLE_START Fiscal 2024 Fiscal 2023 Change Cash provided by (used in) operating activities $ 145.7 $ (203.7) $ 349.4 Cash provided by (used in) investing activities 265.1 (33.2) 298.3 Cash provided by (used in) financing activities 3,443.0 (11.6) 3,454.6 Exchange rate effect on cash, cash equivalents and restricted cash (2.9) (8.6) 5.7 Increase (decrease) in cash, cash equivalents and restricted cash $ 3,850.9 $ (257.1) $ 4,108.0 ##TABLE_END
+
+Operating Activities 
+
+In fiscal 2024, cash provided by operating activities were $145.7 million, compared with cash used in operations of $203.7 million in fiscal 2023. 
+
+Cash provided by operating activities during fiscal 2024 was primarily due to the impact of our net income, a decrease in merchandise inventories, and a decrease in receivables, partially offset by a decrease in accounts payable and accrued liabilities. 
+
+Cash used in operating activities during fiscal 2023 was primarily due to a decrease in accounts payable and accrued liabilities, partially offset by a decrease in accounts receivable and the impact of our net income. The decrease in accounts payable and accrued liabilities was primarily due to the timing of payments for merchandise inventory as a result of an additional week in fiscal 2023 compared to fiscal 2022. 
+
+Investing Activities 
+
+In fiscal 2024, cash provided by investing activities were $265.1 million, compared to cash used in investing activities of $33.2 million in fiscal 2023. 
+
+Cash provided by investing activities during fiscal 2024 was primarily attributable to proceeds from the maturity of marketable securities and proceeds from the sale of property and equipment in our Europe segment, partially offset by purchases of marketable securities and routine capital expenditures. 
+
+Cash used in investing activities during fiscal 2023 was primarily due to purchases of marketable securities, ongoing technological investments, and store-related capital expenditures, partially offset by proceeds from sales and maturities of marketable securities, and proceeds from the sale of property and equipment in our Europe segment. 
+
+Financing activities 
+
+In fiscal 2024, cash provided by financing activities were $3,443.0 million, compared to cash used in financing activities of $11.6 million in fiscal 2023. 
+
+Cash provided by financing activities during fiscal 2024 was primarily due to net proceeds of $3,453.8 million received from the issuance and sale of shares of our Class A Common Stock in connection with the ATM Offerings, partially offset by repayments on our government-guaranteed low interest French term loans due October 2022 through October 2026. 
+
+Cash used in financing activities during fiscal 2023 was attributable to the repayments on our government-guaranteed low interest French term loans due October 2022 through October 2026 and the settlement of stock-based awards. 
+
+Share Repurchases 
+
+On March 4, 2019, our Board of Directors approved a share repurchase authorization allowing us to repurchase up to $300.0 million of our Class A Common Stock. The authorization has no expiration date. 
+
+We did not repurchase shares during fiscal 2024, fiscal 2023 or fiscal 2022. As of February 1, 2025, we have $101.3 million remaining under the repurchase authorization. 
+
+OFF-BALANCE SHEET ARRANGEMENTS 
+
+We had no material off-balance sheet arrangements as of February 1, 2025 other than those disclosed in Item 8, Notes to the Consolidated Financial Statements, Note 15 , "Commitments and Contingencies". 
+
+CRITICAL ACCOUNTING ESTIMATES 
+
+The preparation of financial statements in conformity with accounting principles generally accepted in the United States of America (&#8220;GAAP&#8221;) requires us to make estimates and assumptions that affect the reported amounts of assets and liabilities, the disclosure of contingent assets and liabilities at the date of the financial statements and the reported amounts of revenues and expenses during the reporting period. In preparing these financial statements, we have made our best estimates and judgments of certain amounts included in the financial statements, giving due consideration to materiality. Changes in the estimates and assumptions used by us could have a significant impact on our financial results, and actual results could differ from those estimates. Our senior management has discussed the development and selection of these critical accounting policies, as well as the significant accounting policies disclosed in Item 8, Notes to the Consolidated Financial Statements, Note 2 , "Summary of Significant Accounting Policies," with the Audit Committee of our Board of Directors. We believe the following accounting policies are the most critical to aid in fully understanding and evaluating our reporting of transactions and events, and the estimates these policies involve our most difficult, subjective or complex judgments. 
+
+Valuation of Merchandise Inventories 
+
+Our merchandise inventories are carried at the lower of cost or market generally using the average cost method. Under the average cost method, as new product is received from vendors, its current cost is added to the existing cost of product on-hand and this amount is re-averaged over the cumulative units. Pre-owned gaming systems traded in by customers are recorded as inventory at the amount of the store credit given to the customer. In valuing inventory, we are required to make assumptions regarding the necessity of reserves required to value potentially obsolete or over-valued items at the lower of cost or market. We consider quantities on hand, recent sales, potential price protections and returns to vendors, among other factors, when making these assumptions. 
+
+Our ability to gauge these factors is dependent upon our ability to forecast customer demand and to provide a well-balanced merchandise assortment. Any inability to forecast customer demand properly could lead to increased costs associated with write-downs of inventory to reflect volumes or pricing of inventory which we believe represents the net realizable value. A 10% change in our obsolescence reserve percentage at February 1, 2025 would have affected net earnings by approxi mately $1.5 million in fiscal 2024. 
+
+Customer Liabilities 
+
+Our GameStop Pro &#174; rewards program allows paid members to earn points on purchases that can be redeemed for rewards that include discounts or coupons. We allocate the transaction price between the product and loyalty points earned based on the relative stand-alone selling prices and expected point redemption. The portion allocated to the loyalty points is initially recorded as deferred revenue and subsequently recognized as revenue upon redemption or expiration. The two primary estimates utilized to record the deferred revenue for loyalty points earned by members are the estimated retail price per point and estimated amount of points that will never be redeemed, which is a concept known in the retail industry as "breakage." Additionally, we sell gift cards to our customers in our retail stores, through our website and through selected third parties. At the point of sale, a liability is established for the value of the gift card. We recognize revenue from gift cards when the card is redeemed by the customer and recognize estimated breakage on gift cards in proportion to historical redemption patterns. 
+
+The two primary estimates utilized to record the balance sheet liability for loyalty points earned by members are the estimated redemption rate and the estimated weighted-average retail price per point redeemed. We use historical redemption rates experienced under our loyalty program as a basis for estimating the ultimate redemption rate of points earned. We estimate breakage of loyalty points and unredeemed gift cards based on historical redemption rates. The 
+
+weighted-average retail price per point redeemed is based on our most recent actual loyalty point redemptions and is adjusted as appropriate for recent changes in redemption values, including the mix of rewards redeemed. Our estimate of the amount and timing of gift card redemptions is based primarily on historical transaction experience. 
+
+We continually evaluate our methodology and assumptions based on developments in redemption patterns, retail price per point redeemed and other factors. Changes in the ultimate redemption rate and weighted-average retail price per point redeemed have the effect of either increasing or decreasing the deferred revenue balance through current period revenue by an amount estimated to cover the retail value of all points previously earned but not yet redeemed by loyalty program members as of the end of the reporting period. A 10% change in our customer loyalty program redemption rate or a 10% change in our weighted-average retail value per point redeemed at February 1, 2025, in each case, would have affected net earnings by approxima tely $1.4 million in fiscal 2024. A 10% change in our gift card breakage rate at February 1, 2025 would have affected net earnings by approximat ely $9.5 million in fiscal 2024. A 10% change in our reservation breakage at February 1, 2025 would have affected net earnings by approximately $1.3 million in fiscal 2024. 
+
+Income Taxes 
+
+We account for income taxes utilizing an asset and liability approach, and deferred taxes are determined based on the estimated future tax effect of differences between the financial reporting and tax bases of assets and liabilities using enacted tax rates. As a result of our operations in many foreign countries, our global tax rate is derived from a combination of applicable tax rates in the various jurisdictions in which we operate. 
+
+The Organization for Economic Co-operation and Development ("OECD"), supported by 140 of their member countries, have agreed to implement a minimum 15% tax rate on certain multinational enterprises and have released model guidance. This global minimum tax, known as the Pillar Two framework, became effective across various countries in 2024, as each country works to enact legislation influenced by the OECD Pillar Two rules. In 2024, the Company had no impact on its effective tax rate after the adoption of the Pillar Two framework. The Company will continue to evaluate additional guidance released by the OECD, along with the pending and adopted legislation in each of the countries in which we operate. 
+
+Additionally, a valuation allowance is recorded against a deferred tax asset if it is not more likely than not that the asset will be realized. We assess the available positive and negative evidence to estimate whether sufficient future taxable income will be generated to permit use of the existing deferred tax assets. Several factors are considered in evaluating the realizability of our deferred tax assets, including the remaining years available for carry forward, the tax laws for the applicable jurisdictions, the future profitability of the specific business units, and tax planning strategies. Based on our analysis, we have determined that it is more likely than not that some portion of our deferred tax assets will not be realized. Our valuation allowances decrease d by $63.9 million to $291.3 million as of February 1, 2025, primarily because it is was determined that it is more likely than not that some of the existing gross and/or net deferred tax assets will be recognized. See Item 8, Notes to the Consolidated Financial Statements, Note 1 4 , "Income Taxes," for additional information. 
+
+We maintain accruals for uncertain tax positions until examination of the tax year is completed by the taxing authority, available review periods expire, or additional facts and circumstances cause us to change our assessment of the appropriate accrual amount. Our liability for uncertain tax positions was $7.5 million as of February 1, 2025. Considerable management judgment is necessary to assess the inherent uncertainties related to the interpretations of complex tax laws, regulations and taxing authority rulings, as well as to the expiration of statutes of limitations in the jurisdictions in which we operate. We base our estimate of an annual effective tax rate at any given point in time on a calculated mix of the tax rates applicable to our operations and to estimates of the amount of income to be derived in any given jurisdiction. We file our tax returns based on our understanding of the appropriate tax rules and regulations. However, complexities in the tax rules and our operations, as well as positions taken publicly by the taxing authorities, may lead us to conclude that accruals for uncertain tax positions are required. 
+
+Our judgments and estimates concerning uncertain tax positions may change as a result of evaluation of new information, such as the outcome of tax audits or changes to or further interpretations of tax laws and regulations. Our judgments and estimates concerning realizability of deferred tax assets could change if any of the evaluation factors change. If such changes take place, there is a risk that our effective tax rate could increase or decrease in any period, impacting our net earnings. 
+
+RECENT ACCOUNTING STANDARDS AND PRONOUNCEMENTS 
+
+See Item 8, Notes to the Consolidated Financial Statements, Note 3 , "New Accounting Pronouncements," for recent accounting standards and pronouncements. 
+
