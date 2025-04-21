@@ -1,1 +1,17 @@
- Alphabet's revenues grew 14% to $350 billion in 2024, with Google Services revenues increasing 12% led by Search and YouTube. Gross margins declined slightly to 58% due to higher content and infrastructure costs. Operating margins expanded to 32% despite a 2% rise in operating expenses, demonstrating good cost management. Net income grew 36% resulting in an 8% net margin, showing strong profitability. Revenues have steadily increased over the past few years as the company expands into new markets. While costs are rising with business growth, Alphabet is efficiently managing expenses to drive higher profits. Overall, Alphabet remains financially healthy with sustainable revenue drivers and opportunities to optimize infrastructure spending to bolster margins further, keeping it well positioned for continued growth and profitability.
+# Financial Analysis Report: Alphabet Inc. (2024)
+
+## Executive Summary
+
+Alphabet Inc. has demonstrated exceptional financial performance in 2024, with total revenue reaching $350.0 billion, representing a 14% year-over-year growth. The company's diversified revenue streams, robust profit margins, and strategic investments in AI position it well for continued success. This analysis examines Alphabet's income statement in detail, evaluates key profitability metrics against historical trends, and provides strategic recommendations for sustaining growth momentum.
+
+## Revenue Analysis
+
+Alphabet's revenue growth of 14% to $350.0 billion in 2024 (from $307.4 billion in 2023) demonstrates strong market performance across its business segments:
+
+| Revenue Stream | 2024 (billions) | 2023 (billions) | Change (%) |
+|----------------|-----------------|-----------------|------------|
+| Google Search & other | $198.1 | $175.0 | +13.2% |
+| YouTube ads | $36.1 | $31.5 | +14.7% |
+| Google Network | $30.4 | $31.3 | -3.0% |
+| Google subscriptions, platforms, and devices | $40.3 | $34.7 | +16.3% |
+| Google Cloud |

@@ -1,3 +1,14 @@
- Tesla's total revenues for 2024 were $97.69 billion, a 1% increase year-over-year. However, automotive sales revenue declined 8% to $72.48 billion due to lower average selling prices and vehicle mix. Gross margins decreased in automotive but increased in energy storage due to cost reductions. Overall gross margin was 17.9%, down slightly from 18.2% in 2023. Operating expenses rose primarily due to R&D investments, resulting in a stable operating margin of 7.9%. Net income of $7.13 billion declined meaningfully due to one-time tax benefits in 2023. 
+# Financial Analysis Report: Tesla, Inc. (FY 2024)
 
-While revenue growth has slowed, Tesla remains well-positioned for continued expansion through new products like Cybertruck and cost improvements in manufacturing. Strategic R&D investments in autonomy and battery technology could drive future revenue streams and profitability. However, macroeconomic headwinds may pressure margins as costs rise. Overall Tesla has demonstrated financial resilience, and its diversifying revenue base across automotive, energy storage and services enhances sustainability while opportunities remain to optimize production and maximize profits.
+## Executive Summary
+
+Tesla's financial performance in 2024 demonstrates resilience amid market challenges, with total revenue reaching $97.69 billion, a modest 1% increase from $96.77 billion in 2023. Despite this minimal growth, the company maintained strong operational cash flow of $14.92 billion, up 12.6% year-over-year, reflecting effective working capital management. However, net income declined significantly to $7.13 billion from $15.00 billion in 2023, primarily due to the one-time tax benefit of $6.54 billion from valuation allowance release in 2023 that did not recur in 2024.
+
+## Revenue Analysis
+
+Tesla's revenue composition in 2024 reveals important shifts in its business model:
+
+| Revenue Stream | 2024 ($B) | 2023 ($B) | Change (%) | Analysis |
+|----------------|-----------|-----------|------------|----------|
+| Automotive sales | $72.48 | $78.51 | -8% | Decreased due to lower average selling prices and reduced Model 3/Y deliveries (-22,000 units) |
+| Automotive regulatory credits | $2.76 | $1.79 | +54% | Significant increase

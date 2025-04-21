@@ -1,3 +1,11 @@
- Based on the income statement analysis, GameStop's revenue declined 27.5% year-over-year to $3.8 billion in fiscal 2024, with hardware, software and collectible sales all decreasing. However, the gross profit margin improved to 29.1% from 24.5% a year ago, indicating higher margins from collectibles and pre-owned products. Operating expenses fell but the operating margin remained slightly negative at -0.7% due to fixed costs. The net profit margin increased substantially to 3.4% from 0.1% previously, reflecting strong interest income growth. 
+# Financial Analysis Report: GameStop Corp.
 
-Overall, while top-line performance faces challenges, focus on cost optimization and higher-margin categories enhanced profitability. Continued cost controls and expansion into new growth areas can help power sustainable revenue and profit gains in the future if overall sales stabilize.
+## Income Statement Analysis (FY 2025)
+
+GameStop has achieved a remarkable financial turnaround, reporting net income of $131.3 million in fiscal 2025, a substantial increase from $6.7 million in 2024. This represents a 3.4% net profit margin compared to just 0.1% in the previous year. The improvement comes despite a 27.5% decline in net sales to $3.82 billion, demonstrating effective cost management.
+
+The company's gross profit margin improved significantly to 29.1% from 24.5%, reflecting a strategic shift toward higher-margin product categories. Collectibles now represent 18.8% of sales (up from 14.3%), while pre-owned hardware and accessories increased to 11.5% (from 9.3%).
+
+Operating expenses were reduced by $193.5 million (14.6%), primarily through labor cost reductions, decreased consulting services, and reduced marketing expenses. However, SG&A as a percentage of sales increased to 29.6% from 25.1% due to the sales decline outpacing cost reductions.
+
+The most significant contributor to profitability was interest income, which increased by $113.9 million to $163.4 million, driven by higher cash reserves from equity offerings and improved interest rates

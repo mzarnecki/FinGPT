@@ -1,1 +1,14 @@
- Based on the analyses, Tesla has demonstrated strong operational performance, financial stability, and efficient cash management. While revenue growth slowed as average selling prices declined, strategic investments in new products and manufacturing improvements aim to drive future revenues higher. Cost reductions helped offset margin pressures. A prudent balance sheet with ample liquidity and low leverage provides flexibility to fund global expansion. Steady free cash flow allows self-funding of the multi-billion dollar investments required for continued growth. Overall, Tesla is well-positioned for sustainable long-term growth, though macroeconomic challenges could impact profits. The company should focus on optimizing production to maximize margins and profits as costs rise, while advancing initiatives to diversify revenue streams through products like energy storage and autonomous driving to mitigate risks and capitalize on opportunities for further enhancing shareholder value.
+# Financial Analysis Report: Tesla, Inc. (FY 2024)
+
+## Executive Summary
+
+Tesla's financial performance in 2024 demonstrates resilience amid market challenges, with total revenue reaching $97.69 billion, a modest 1% increase from $96.77 billion in 2023. Despite this minimal growth, the company maintained strong operational cash flow of $14.92 billion, up 12.6% year-over-year, reflecting effective working capital management. However, net income declined significantly to $7.09 billion from $15.00 billion in 2023, primarily due to the one-time tax benefit of $6.54 billion from valuation allowance release in 2023 that did not recur in 2024.
+
+## Revenue Analysis
+
+Tesla's revenue composition in 2024 reveals important shifts in its business model:
+
+| Revenue Stream | 2024 ($B) | 2023 ($B) | Change (%) | Analysis |
+|----------------|-----------|-----------|------------|----------|
+| Automotive sales | $72.48 | $78.51 | -8% | Decreased due to lower average selling prices and reduced Model 3/Y deliveries (-22,000 units) |
+| Automotive regulatory credits | $2.76 | $1.79 | +54% | Significant increase

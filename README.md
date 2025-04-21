@@ -8,13 +8,14 @@ See examples of generated reports in projects dir and run notebook for any other
 [Tesla TSLA_report.pdf](projects/TSLA/TSLA_report.pdf)\
 [Google GOOG_report.pdf](projects/GOOG/GOOG_report.pdf)
 
+![GME_financial_analysis_report.png](GME_financial_analysis_report.png)
 
 This project is a modified and improved version of notebook included in FinGPT project: \
 https://github.com/AI4Finance-Foundation/FinGPT/tree/master/fingpt/FinGPT_FinancialReportAnalysis
 
 Key improvements:
 - Replaced LLM OpenAI/ollama with AWS Bedrock API
-- Used Claude3.7-Sonnet LLM
+- Used Claude 3.7 Sonnet LLM
 - Modified prompt to include numbers in text - to simplify verifying interpretation is correct
 
 This project provides tools for analyzing financial reports, specifically annual reports (10-K), using advanced language models such as GPT-4 or other locally deployed Large Language Models (LLM). It's designed to help users generate comprehensive analysis reports in PDF format, offering insights into a company's financial health and performance over the fiscal year.
@@ -35,7 +36,7 @@ Before starting, ensure you have the following installed:
 
 Obtain AWS keys: aws_access_key_id and aws_secret_access_key. \ 
 Modify policies in IAM on AWS console to enable access to Bedrock service.\ 
-Go to bedrock service, then to model catalog and enable LLM model used in jupyter notebook, for example Claude 3.7-Sonnet.
+Go to bedrock service, then to model catalog and enable LLM model used in jupyter notebook, for example Claude 3.7 Sonnet.
 
 Obtain the sec-api (which is used to grab the 10-K report) from https://sec-api.io/profile for free.
 
