@@ -1,10 +1,12 @@
 # data handling
 numpy
 pandas
-
-# packaging
-setuptools>=41.4.0
-wheel>=0.33.6
-
-# historical data
-tushare
+reportlab
+matplotlib
+scrapy
+sec_api
+umap-learn
+scikit-learn
+tiktoken
+sentence-transformers
+openbb
