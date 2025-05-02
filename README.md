@@ -18,6 +18,8 @@ Key improvements:
 - Used Claude 3.7 Sonnet LLM
 - Modified prompt to include numbers in text - to simplify verifying interpretation is correct
 
+📖 For a detailed explanation of concepts used in this application, check out my article on [Medium](https://medium.com/@brightcode/building-financial-reports-with-fingpt-and-claude-3-7-sonnet-cfe1621589b6).
+
 This project provides tools for analyzing financial reports, specifically annual reports (10-K), using advanced language models such as GPT-4 or other locally deployed Large Language Models (LLM). It's designed to help users generate comprehensive analysis reports in PDF format, offering insights into a company's financial health and performance over the fiscal year.
 
 ## Features
